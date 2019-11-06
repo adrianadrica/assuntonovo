@@ -1,9 +1,9 @@
-a = 1
+a = 1  #declarando as variaveis
 b = -5
 
-soma = a + b
+soma = a + b #declarando  uma função 
 
-if(soma > a):
+if(soma > a):   #comparando
     print("Soma maior que a")
 
 elif(soma == a):
